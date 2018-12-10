@@ -1,0 +1,74 @@
+[05-Oct-2018 03:44:09 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sindcoco.eventos' doesn't exist in C:\Users\leandro\Documents\sindcocoNew\admin\eventos\index.php:94
+Stack trace:
+#0 C:\Users\leandro\Documents\sindcocoNew\admin\eventos\index.php(94): PDO->query('SELECT * FROM e...')
+#1 {main}
+  thrown in C:\Users\leandro\Documents\sindcocoNew\admin\eventos\index.php on line 94
+[05-Oct-2018 03:45:19 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sindcoco.eventos' doesn't exist in C:\Users\leandro\Documents\sindcocoNew\admin\eventos\index.php:94
+Stack trace:
+#0 C:\Users\leandro\Documents\sindcocoNew\admin\eventos\index.php(94): PDO->query('SELECT * FROM e...')
+#1 {main}
+  thrown in C:\Users\leandro\Documents\sindcocoNew\admin\eventos\index.php on line 94
+[05-Oct-2018 03:45:22 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sindcoco.eventos' doesn't exist in C:\Users\leandro\Documents\sindcocoNew\admin\eventos\imagensEvento.php:91
+Stack trace:
+#0 C:\Users\leandro\Documents\sindcocoNew\admin\eventos\imagensEvento.php(91): PDO->query('SELECT ei.id, e...')
+#1 {main}
+  thrown in C:\Users\leandro\Documents\sindcocoNew\admin\eventos\imagensEvento.php on line 91
+[05-Oct-2018 03:45:25 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sindcoco.eventos' doesn't exist in C:\Users\leandro\Documents\sindcocoNew\admin\eventos\eventosInativos.php:94
+Stack trace:
+#0 C:\Users\leandro\Documents\sindcocoNew\admin\eventos\eventosInativos.php(94): PDO->query('SELECT * FROM e...')
+#1 {main}
+  thrown in C:\Users\leandro\Documents\sindcocoNew\admin\eventos\eventosInativos.php on line 94
+[05-Oct-2018 03:45:31 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sindcoco.eventos' doesn't exist in C:\Users\leandro\Documents\sindcocoNew\admin\eventos\imagensInativas.php:91
+Stack trace:
+#0 C:\Users\leandro\Documents\sindcocoNew\admin\eventos\imagensInativas.php(91): PDO->query('SELECT ei.id, e...')
+#1 {main}
+  thrown in C:\Users\leandro\Documents\sindcocoNew\admin\eventos\imagensInativas.php on line 91
+[06-Oct-2018 01:13:55 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sindcoco.eventos' doesn't exist in C:\Users\leandro\Documents\sindcocoNew\admin\eventos\index.php:94
+Stack trace:
+#0 C:\Users\leandro\Documents\sindcocoNew\admin\eventos\index.php(94): PDO->query('SELECT * FROM e...')
+#1 {main}
+  thrown in C:\Users\leandro\Documents\sindcocoNew\admin\eventos\index.php on line 94
+[06-Oct-2018 01:14:18 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sindcoco.eventos' doesn't exist in C:\Users\leandro\Documents\sindcocoNew\admin\eventos\index.php:94
+Stack trace:
+#0 C:\Users\leandro\Documents\sindcocoNew\admin\eventos\index.php(94): PDO->query('SELECT * FROM e...')
+#1 {main}
+  thrown in C:\Users\leandro\Documents\sindcocoNew\admin\eventos\index.php on line 94
+[06-Oct-2018 01:14:23 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sindcoco.eventos' doesn't exist in C:\Users\leandro\Documents\sindcocoNew\admin\eventos\imagensEvento.php:91
+Stack trace:
+#0 C:\Users\leandro\Documents\sindcocoNew\admin\eventos\imagensEvento.php(91): PDO->query('SELECT ei.id, e...')
+#1 {main}
+  thrown in C:\Users\leandro\Documents\sindcocoNew\admin\eventos\imagensEvento.php on line 91
+[06-Oct-2018 01:14:35 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sindcoco.eventos' doesn't exist in C:\Users\leandro\Documents\sindcocoNew\admin\eventos\eventosInativos.php:94
+Stack trace:
+#0 C:\Users\leandro\Documents\sindcocoNew\admin\eventos\eventosInativos.php(94): PDO->query('SELECT * FROM e...')
+#1 {main}
+  thrown in C:\Users\leandro\Documents\sindcocoNew\admin\eventos\eventosInativos.php on line 94
+[06-Oct-2018 01:45:58 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sindcoco.eventos' doesn't exist in C:\Users\leandro\Documents\sindcocoNew\admin\eventos\index.php:94
+Stack trace:
+#0 C:\Users\leandro\Documents\sindcocoNew\admin\eventos\index.php(94): PDO->query('SELECT * FROM e...')
+#1 {main}
+  thrown in C:\Users\leandro\Documents\sindcocoNew\admin\eventos\index.php on line 94
+[06-Oct-2018 01:46:02 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sindcoco.eventos' doesn't exist in C:\Users\leandro\Documents\sindcocoNew\admin\eventos\imagensEvento.php:91
+Stack trace:
+#0 C:\Users\leandro\Documents\sindcocoNew\admin\eventos\imagensEvento.php(91): PDO->query('SELECT ei.id, e...')
+#1 {main}
+  thrown in C:\Users\leandro\Documents\sindcocoNew\admin\eventos\imagensEvento.php on line 91
+[06-Oct-2018 01:46:06 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sindcoco.eventos' doesn't exist in C:\Users\leandro\Documents\sindcocoNew\admin\eventos\imagensInativas.php:91
+Stack trace:
+#0 C:\Users\leandro\Documents\sindcocoNew\admin\eventos\imagensInativas.php(91): PDO->query('SELECT ei.id, e...')
+#1 {main}
+  thrown in C:\Users\leandro\Documents\sindcocoNew\admin\eventos\imagensInativas.php on line 91
+[06-Oct-2018 01:46:32 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sindcoco.eventos' doesn't exist in C:\Users\leandro\Documents\sindcocoNew\admin\eventos\index.php:94
+Stack trace:
+#0 C:\Users\leandro\Documents\sindcocoNew\admin\eventos\index.php(94): PDO->query('SELECT * FROM e...')
+#1 {main}
+  thrown in C:\Users\leandro\Documents\sindcocoNew\admin\eventos\index.php on line 94
+[06-Oct-2018 02:36:18 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sindcoco.eventos' doesn't exist in C:\Users\leandro\Documents\sindcocoNew\admin\eventos\index.php:94
+Stack trace:
+#0 C:\Users\leandro\Documents\sindcocoNew\admin\eventos\index.php(94): PDO->query('SELECT * FROM e...')
+#1 {main}
+  thrown in C:\Users\leandro\Documents\sindcocoNew\admin\eventos\index.php on line 94
+[07-Oct-2018 21:47:54 UTC] PHP Warning:  require(../util/conexao.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\admin\eventos\index.php on line 83
+[07-Oct-2018 21:47:54 UTC] PHP Fatal error:  require(): Failed opening required '../util/conexao.php' (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\admin\eventos\index.php on line 83
+[07-Oct-2018 21:48:15 UTC] PHP Warning:  require(../util/conexao.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\admin\eventos\index.php on line 83
+[07-Oct-2018 21:48:15 UTC] PHP Fatal error:  require(): Failed opening required '../util/conexao.php' (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\admin\eventos\index.php on line 83

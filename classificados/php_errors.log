@@ -1,0 +1,256 @@
+[27-Sep-2018 13:06:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\Users\leandro\Documents\sindcocoNew\classificados\classificados.php:48
+Stack trace:
+#0 {main}
+  thrown in C:\Users\leandro\Documents\sindcocoNew\classificados\classificados.php on line 48
+[24-Oct-2018 04:54:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\Users\lucas\sindcoco\classificados\index.php:50
+Stack trace:
+#0 {main}
+  thrown in C:\Users\lucas\sindcoco\classificados\index.php on line 50
+[24-Oct-2018 04:54:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\Users\lucas\sindcoco\classificados\index.php:50
+Stack trace:
+#0 {main}
+  thrown in C:\Users\lucas\sindcoco\classificados\index.php on line 50
+[24-Oct-2018 21:15:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\Users\lucas\sindcoco\classificados\index.php:50
+Stack trace:
+#0 {main}
+  thrown in C:\Users\lucas\sindcoco\classificados\index.php on line 50
+[24-Oct-2018 21:22:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\Users\lucas\sindcoco\classificados\index.php:50
+Stack trace:
+#0 {main}
+  thrown in C:\Users\lucas\sindcoco\classificados\index.php on line 50
+[24-Oct-2018 21:40:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\Users\lucas\sindcoco\classificados\index.php:50
+Stack trace:
+#0 {main}
+  thrown in C:\Users\lucas\sindcoco\classificados\index.php on line 50
+[01-Nov-2018 13:16:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in C:\Users\leandro\Documents\sindcocoNew\classificados\index.php:144
+Stack trace:
+#0 {main}
+  thrown in C:\Users\leandro\Documents\sindcocoNew\classificados\index.php on line 144
+[01-Nov-2018 13:19:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in C:\Users\leandro\Documents\sindcocoNew\classificados\index.php:144
+Stack trace:
+#0 {main}
+  thrown in C:\Users\leandro\Documents\sindcocoNew\classificados\index.php on line 144
+[01-Nov-2018 13:19:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in C:\Users\leandro\Documents\sindcocoNew\classificados\index.php:144
+Stack trace:
+#0 {main}
+  thrown in C:\Users\leandro\Documents\sindcocoNew\classificados\index.php on line 144
+[01-Nov-2018 13:19:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in C:\Users\leandro\Documents\sindcocoNew\classificados\index.php:144
+Stack trace:
+#0 {main}
+  thrown in C:\Users\leandro\Documents\sindcocoNew\classificados\index.php on line 144
+[01-Nov-2018 13:25:08 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sindcoco.estado' doesn't exist in C:\Users\leandro\Documents\sindcocoNew\classificados\index.php:144
+Stack trace:
+#0 C:\Users\leandro\Documents\sindcocoNew\classificados\index.php(144): PDO->query('select * from e...')
+#1 {main}
+  thrown in C:\Users\leandro\Documents\sindcocoNew\classificados\index.php on line 144
+[01-Nov-2018 13:25:08 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sindcoco.estado' doesn't exist in C:\Users\leandro\Documents\sindcocoNew\classificados\index.php:144
+Stack trace:
+#0 C:\Users\leandro\Documents\sindcocoNew\classificados\index.php(144): PDO->query('select * from e...')
+#1 {main}
+  thrown in C:\Users\leandro\Documents\sindcocoNew\classificados\index.php on line 144
+[01-Nov-2018 13:25:09 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sindcoco.estado' doesn't exist in C:\Users\leandro\Documents\sindcocoNew\classificados\index.php:144
+Stack trace:
+#0 C:\Users\leandro\Documents\sindcocoNew\classificados\index.php(144): PDO->query('select * from e...')
+#1 {main}
+  thrown in C:\Users\leandro\Documents\sindcocoNew\classificados\index.php on line 144
+[01-Nov-2018 13:25:09 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sindcoco.estado' doesn't exist in C:\Users\leandro\Documents\sindcocoNew\classificados\index.php:144
+Stack trace:
+#0 C:\Users\leandro\Documents\sindcocoNew\classificados\index.php(144): PDO->query('select * from e...')
+#1 {main}
+  thrown in C:\Users\leandro\Documents\sindcocoNew\classificados\index.php on line 144
+[01-Nov-2018 13:25:10 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sindcoco.estado' doesn't exist in C:\Users\leandro\Documents\sindcocoNew\classificados\index.php:144
+Stack trace:
+#0 C:\Users\leandro\Documents\sindcocoNew\classificados\index.php(144): PDO->query('select * from e...')
+#1 {main}
+  thrown in C:\Users\leandro\Documents\sindcocoNew\classificados\index.php on line 144
+[01-Nov-2018 13:25:23 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sindcoco.estado' doesn't exist in C:\Users\leandro\Documents\sindcocoNew\classificados\index.php:144
+Stack trace:
+#0 C:\Users\leandro\Documents\sindcocoNew\classificados\index.php(144): PDO->query('select * from e...')
+#1 {main}
+  thrown in C:\Users\leandro\Documents\sindcocoNew\classificados\index.php on line 144
+[01-Nov-2018 13:25:24 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sindcoco.estado' doesn't exist in C:\Users\leandro\Documents\sindcocoNew\classificados\index.php:144
+Stack trace:
+#0 C:\Users\leandro\Documents\sindcocoNew\classificados\index.php(144): PDO->query('select * from e...')
+#1 {main}
+  thrown in C:\Users\leandro\Documents\sindcocoNew\classificados\index.php on line 144
+[01-Nov-2018 13:25:45 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sindcoco.estado' doesn't exist in C:\Users\leandro\Documents\sindcocoNew\classificados\index.php:144
+Stack trace:
+#0 C:\Users\leandro\Documents\sindcocoNew\classificados\index.php(144): PDO->query('select * from e...')
+#1 {main}
+  thrown in C:\Users\leandro\Documents\sindcocoNew\classificados\index.php on line 144
+[01-Nov-2018 14:51:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\Users\leandro\Documents\sindcocoNew\classificados\index.php:227
+Stack trace:
+#0 {main}
+  thrown in C:\Users\leandro\Documents\sindcocoNew\classificados\index.php on line 227
+[01-Nov-2018 14:57:02 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in C:\Users\leandro\Documents\sindcocoNew\classificados\index.php on line 373
+[01-Nov-2018 14:57:03 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in C:\Users\leandro\Documents\sindcocoNew\classificados\index.php on line 373
+[01-Nov-2018 14:57:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\Users\leandro\Documents\sindcocoNew\classificados\index.php:227
+Stack trace:
+#0 {main}
+  thrown in C:\Users\leandro\Documents\sindcocoNew\classificados\index.php on line 227
+[01-Nov-2018 14:57:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\Users\leandro\Documents\sindcocoNew\classificados\index.php:227
+Stack trace:
+#0 {main}
+  thrown in C:\Users\leandro\Documents\sindcocoNew\classificados\index.php on line 227
+[01-Nov-2018 14:57:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\Users\leandro\Documents\sindcocoNew\classificados\index.php:227
+Stack trace:
+#0 {main}
+  thrown in C:\Users\leandro\Documents\sindcocoNew\classificados\index.php on line 227
+[01-Nov-2018 14:57:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\Users\leandro\Documents\sindcocoNew\classificados\index.php:227
+Stack trace:
+#0 {main}
+  thrown in C:\Users\leandro\Documents\sindcocoNew\classificados\index.php on line 227
+[01-Nov-2018 14:57:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\Users\leandro\Documents\sindcocoNew\classificados\index.php:227
+Stack trace:
+#0 {main}
+  thrown in C:\Users\leandro\Documents\sindcocoNew\classificados\index.php on line 227
+[01-Nov-2018 15:08:24 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\leandro\Documents\sindcocoNew\classificados\teste.php on line 224
+[01-Nov-2018 15:13:06 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\leandro\Documents\sindcocoNew\classificados\teste.php on line 290
+[01-Nov-2018 15:13:07 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\leandro\Documents\sindcocoNew\classificados\teste.php on line 290
+[01-Nov-2018 15:13:15 UTC] PHP Warning:  require(configs/conexao.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\classificados\teste.php on line 52
+[01-Nov-2018 15:13:15 UTC] PHP Fatal error:  require(): Failed opening required 'configs/conexao.php' (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\classificados\teste.php on line 52
+[01-Nov-2018 15:13:28 UTC] PHP Warning:  require(configs/conexao.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\classificados\teste.php on line 52
+[01-Nov-2018 15:13:28 UTC] PHP Fatal error:  require(): Failed opening required 'configs/conexao.php' (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\classificados\teste.php on line 52
+[01-Nov-2018 15:13:29 UTC] PHP Warning:  require(configs/conexao.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\classificados\teste.php on line 52
+[01-Nov-2018 15:13:29 UTC] PHP Fatal error:  require(): Failed opening required 'configs/conexao.php' (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\classificados\teste.php on line 52
+[01-Nov-2018 15:18:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\Users\leandro\Documents\sindcocoNew\classificados\teste.php:69
+Stack trace:
+#0 {main}
+  thrown in C:\Users\leandro\Documents\sindcocoNew\classificados\teste.php on line 69
+[01-Nov-2018 15:20:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\Users\leandro\Documents\sindcocoNew\classificados\teste.php:112
+Stack trace:
+#0 {main}
+  thrown in C:\Users\leandro\Documents\sindcocoNew\classificados\teste.php on line 112
+[01-Nov-2018 21:22:54 UTC] PHP Warning:  require(../paginaModal.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\classificados\index.php on line 247
+[01-Nov-2018 21:22:54 UTC] PHP Fatal error:  require(): Failed opening required '../paginaModal.php' (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\classificados\index.php on line 247
+[01-Nov-2018 21:23:01 UTC] PHP Warning:  require(../paginaModal.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\classificados\index.php on line 247
+[01-Nov-2018 21:23:01 UTC] PHP Fatal error:  require(): Failed opening required '../paginaModal.php' (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\classificados\index.php on line 247
+[02-Nov-2018 00:53:24 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in C:\Users\leandro\Documents\sindcocoNew\classificados\paginaModal.php on line 23
+[02-Nov-2018 00:54:09 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in C:\Users\leandro\Documents\sindcocoNew\classificados\paginaModal.php on line 23
+[02-Nov-2018 00:56:11 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in C:\Users\leandro\Documents\sindcocoNew\classificados\paginaModal.php on line 23
+[02-Nov-2018 00:56:35 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in C:\Users\leandro\Documents\sindcocoNew\classificados\paginaModal.php on line 23
+[02-Nov-2018 00:56:37 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in C:\Users\leandro\Documents\sindcocoNew\classificados\paginaModal.php on line 23
+[02-Nov-2018 00:57:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::fetchAll() in C:\Users\leandro\Documents\sindcocoNew\classificados\index.php:412
+Stack trace:
+#0 {main}
+  thrown in C:\Users\leandro\Documents\sindcocoNew\classificados\index.php on line 412
+[02-Nov-2018 00:57:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::fetchAll() in C:\Users\leandro\Documents\sindcocoNew\classificados\index.php:412
+Stack trace:
+#0 {main}
+  thrown in C:\Users\leandro\Documents\sindcocoNew\classificados\index.php on line 412
+[02-Nov-2018 00:58:04 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in C:\Users\leandro\Documents\sindcocoNew\classificados\paginaModal.php on line 23
+[02-Nov-2018 00:58:07 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in C:\Users\leandro\Documents\sindcocoNew\classificados\paginaModal.php on line 23
+[02-Nov-2018 00:58:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in C:\Users\leandro\Documents\sindcocoNew\classificados\paginaModal.php on line 23
+[02-Nov-2018 00:58:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in C:\Users\leandro\Documents\sindcocoNew\classificados\paginaModal.php on line 23
+[02-Nov-2018 01:00:11 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in C:\Users\leandro\Documents\sindcocoNew\classificados\paginaModal.php on line 23
+[02-Nov-2018 01:45:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::fetchAll() in C:\Users\leandro\Documents\sindcocoNew\classificados\index.php:415
+Stack trace:
+#0 {main}
+  thrown in C:\Users\leandro\Documents\sindcocoNew\classificados\index.php on line 415
+[02-Nov-2018 02:38:27 UTC] PHP Warning:  require(footer.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\classificados\detalhes.php on line 185
+[02-Nov-2018 02:38:27 UTC] PHP Fatal error:  require(): Failed opening required 'footer.php' (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\classificados\detalhes.php on line 185
+[02-Nov-2018 02:44:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\Users\leandro\Documents\sindcocoNew\classificados\detalhes.php:5
+Stack trace:
+#0 {main}
+  thrown in C:\Users\leandro\Documents\sindcocoNew\classificados\detalhes.php on line 5
+[02-Nov-2018 02:45:39 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sindcoco.anuncios' doesn't exist in C:\Users\leandro\Documents\sindcocoNew\classificados\detalhes.php:46
+Stack trace:
+#0 C:\Users\leandro\Documents\sindcocoNew\classificados\detalhes.php(46): PDOStatement->execute()
+#1 {main}
+  thrown in C:\Users\leandro\Documents\sindcocoNew\classificados\detalhes.php on line 46
+[02-Nov-2018 02:46:40 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sindcoco.anuncios' doesn't exist in C:\Users\leandro\Documents\sindcocoNew\classificados\detalhes.php:46
+Stack trace:
+#0 C:\Users\leandro\Documents\sindcocoNew\classificados\detalhes.php(46): PDOStatement->execute()
+#1 {main}
+  thrown in C:\Users\leandro\Documents\sindcocoNew\classificados\detalhes.php on line 46
+[02-Nov-2018 02:47:37 UTC] PHP Warning:  require(footer.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\classificados\detalhes.php on line 185
+[02-Nov-2018 02:47:37 UTC] PHP Fatal error:  require(): Failed opening required 'footer.php' (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\classificados\detalhes.php on line 185
+[02-Nov-2018 02:47:41 UTC] PHP Warning:  require(footer.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\classificados\detalhes.php on line 185
+[02-Nov-2018 02:47:41 UTC] PHP Fatal error:  require(): Failed opening required 'footer.php' (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\classificados\detalhes.php on line 185
+[02-Nov-2018 02:48:40 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\leandro\Documents\sindcocoNew\classificados\detalhes.php on line 64
+[02-Nov-2018 02:49:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\Users\leandro\Documents\sindcocoNew\classificados\detalhes.php:5
+Stack trace:
+#0 {main}
+  thrown in C:\Users\leandro\Documents\sindcocoNew\classificados\detalhes.php on line 5
+[02-Nov-2018 02:51:41 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in C:\Users\leandro\Documents\sindcocoNew\classificados\detalhes.php on line 70
+[02-Nov-2018 02:52:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\Users\leandro\Documents\sindcocoNew\classificados\detalhes.php:5
+Stack trace:
+#0 {main}
+  thrown in C:\Users\leandro\Documents\sindcocoNew\classificados\detalhes.php on line 5
+[02-Nov-2018 02:53:45 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\leandro\Documents\sindcocoNew\classificados\detalhes.php on line 65
+[02-Nov-2018 02:54:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\Users\leandro\Documents\sindcocoNew\classificados\detalhes.php:5
+Stack trace:
+#0 {main}
+  thrown in C:\Users\leandro\Documents\sindcocoNew\classificados\detalhes.php on line 5
+[02-Nov-2018 02:55:29 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in C:\Users\leandro\Documents\sindcocoNew\classificados\detalhes.php on line 55
+[02-Nov-2018 02:55:47 UTC] PHP Warning:  require(footer.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\classificados\detalhes.php on line 185
+[02-Nov-2018 02:55:47 UTC] PHP Fatal error:  require(): Failed opening required 'footer.php' (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\classificados\detalhes.php on line 185
+[02-Nov-2018 02:58:01 UTC] PHP Warning:  require(footer.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\classificados\detalhes.php on line 185
+[02-Nov-2018 02:58:01 UTC] PHP Fatal error:  require(): Failed opening required 'footer.php' (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\classificados\detalhes.php on line 185
+[02-Nov-2018 02:58:05 UTC] PHP Warning:  require(footer.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\classificados\detalhes.php on line 185
+[02-Nov-2018 02:58:05 UTC] PHP Fatal error:  require(): Failed opening required 'footer.php' (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\classificados\detalhes.php on line 185
+[02-Nov-2018 02:58:07 UTC] PHP Warning:  require(footer.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\classificados\detalhes.php on line 185
+[02-Nov-2018 02:58:07 UTC] PHP Fatal error:  require(): Failed opening required 'footer.php' (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\classificados\detalhes.php on line 185
+[02-Nov-2018 02:58:11 UTC] PHP Warning:  require(footer.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\classificados\detalhes.php on line 185
+[02-Nov-2018 02:58:11 UTC] PHP Fatal error:  require(): Failed opening required 'footer.php' (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\classificados\detalhes.php on line 185
+[02-Nov-2018 02:58:15 UTC] PHP Warning:  require(footer.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\classificados\detalhes.php on line 185
+[02-Nov-2018 02:58:15 UTC] PHP Fatal error:  require(): Failed opening required 'footer.php' (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\classificados\detalhes.php on line 185
+[02-Nov-2018 02:58:22 UTC] PHP Warning:  require(footer.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\classificados\detalhes.php on line 185
+[02-Nov-2018 02:58:22 UTC] PHP Fatal error:  require(): Failed opening required 'footer.php' (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\classificados\detalhes.php on line 185
+[02-Nov-2018 02:58:38 UTC] PHP Warning:  require(footer.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\classificados\detalhes.php on line 185
+[02-Nov-2018 02:58:38 UTC] PHP Fatal error:  require(): Failed opening required 'footer.php' (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\classificados\detalhes.php on line 185
+[02-Nov-2018 02:59:27 UTC] PHP Warning:  require(footer.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\classificados\detalhes.php on line 185
+[02-Nov-2018 02:59:28 UTC] PHP Fatal error:  require(): Failed opening required 'footer.php' (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\classificados\detalhes.php on line 185
+[02-Nov-2018 02:59:30 UTC] PHP Warning:  require(footer.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\classificados\detalhes.php on line 185
+[02-Nov-2018 02:59:30 UTC] PHP Fatal error:  require(): Failed opening required 'footer.php' (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\classificados\detalhes.php on line 185
+[02-Nov-2018 03:00:03 UTC] PHP Warning:  require(footer.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\classificados\detalhes.php on line 196
+[02-Nov-2018 03:00:03 UTC] PHP Fatal error:  require(): Failed opening required 'footer.php' (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\classificados\detalhes.php on line 196
+[02-Nov-2018 03:00:09 UTC] PHP Warning:  require(footer.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\classificados\detalhes.php on line 196
+[02-Nov-2018 03:00:09 UTC] PHP Fatal error:  require(): Failed opening required 'footer.php' (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\classificados\detalhes.php on line 196
+[02-Nov-2018 03:00:40 UTC] PHP Warning:  require(footer.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\classificados\detalhes.php on line 200
+[02-Nov-2018 03:00:40 UTC] PHP Fatal error:  require(): Failed opening required 'footer.php' (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\classificados\detalhes.php on line 200
+[02-Nov-2018 03:00:44 UTC] PHP Warning:  require(footer.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\classificados\detalhes.php on line 200
+[02-Nov-2018 03:00:44 UTC] PHP Fatal error:  require(): Failed opening required 'footer.php' (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\classificados\detalhes.php on line 200
+[02-Nov-2018 03:00:51 UTC] PHP Warning:  require(footer.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\classificados\detalhes.php on line 200
+[02-Nov-2018 03:00:51 UTC] PHP Fatal error:  require(): Failed opening required 'footer.php' (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\classificados\detalhes.php on line 200
+[02-Nov-2018 03:01:39 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in C:\Users\leandro\Documents\sindcocoNew\classificados\detalhes.php on line 122
+[02-Nov-2018 03:01:42 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in C:\Users\leandro\Documents\sindcocoNew\classificados\detalhes.php on line 122
+[02-Nov-2018 03:02:05 UTC] PHP Warning:  require(footer.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\classificados\detalhes.php on line 188
+[02-Nov-2018 03:02:05 UTC] PHP Fatal error:  require(): Failed opening required 'footer.php' (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\classificados\detalhes.php on line 188
+[02-Nov-2018 03:02:46 UTC] PHP Warning:  require(footer.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\classificados\detalhes.php on line 178
+[02-Nov-2018 03:02:46 UTC] PHP Fatal error:  require(): Failed opening required 'footer.php' (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\classificados\detalhes.php on line 178
+[02-Nov-2018 03:03:09 UTC] PHP Warning:  require(footer.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\classificados\detalhes.php on line 184
+[02-Nov-2018 03:03:09 UTC] PHP Fatal error:  require(): Failed opening required 'footer.php' (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\classificados\detalhes.php on line 184
+[02-Nov-2018 03:03:26 UTC] PHP Warning:  require(footer.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\classificados\detalhes.php on line 184
+[02-Nov-2018 03:03:26 UTC] PHP Fatal error:  require(): Failed opening required 'footer.php' (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\classificados\detalhes.php on line 184
+[02-Nov-2018 03:03:40 UTC] PHP Warning:  require(footer.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\classificados\detalhes.php on line 184
+[02-Nov-2018 03:03:40 UTC] PHP Fatal error:  require(): Failed opening required 'footer.php' (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\classificados\detalhes.php on line 184
+[02-Nov-2018 03:04:03 UTC] PHP Warning:  include(classificados/nav.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\classificados\detalhes.php on line 30
+[02-Nov-2018 03:04:03 UTC] PHP Warning:  include(): Failed opening 'classificados/nav.php' for inclusion (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\classificados\detalhes.php on line 30
+[02-Nov-2018 03:04:03 UTC] PHP Warning:  require(footer.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\classificados\detalhes.php on line 184
+[02-Nov-2018 03:04:03 UTC] PHP Fatal error:  require(): Failed opening required 'footer.php' (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\classificados\detalhes.php on line 184
+[02-Nov-2018 03:04:11 UTC] PHP Warning:  require(footer.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\classificados\detalhes.php on line 184
+[02-Nov-2018 03:04:11 UTC] PHP Fatal error:  require(): Failed opening required 'footer.php' (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\classificados\detalhes.php on line 184
+[02-Nov-2018 03:04:39 UTC] PHP Warning:  require(footer.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\classificados\detalhes.php on line 184
+[02-Nov-2018 03:04:39 UTC] PHP Fatal error:  require(): Failed opening required 'footer.php' (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\classificados\detalhes.php on line 184
+[02-Nov-2018 03:06:16 UTC] PHP Warning:  require(footer.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\classificados\detalhes.php on line 184
+[02-Nov-2018 03:06:16 UTC] PHP Fatal error:  require(): Failed opening required 'footer.php' (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\classificados\detalhes.php on line 184
+[02-Nov-2018 03:06:17 UTC] PHP Warning:  require(footer.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\classificados\detalhes.php on line 184
+[02-Nov-2018 03:06:17 UTC] PHP Fatal error:  require(): Failed opening required 'footer.php' (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\classificados\detalhes.php on line 184
+[02-Nov-2018 03:06:36 UTC] PHP Warning:  require(footer.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\classificados\detalhes.php on line 184
+[02-Nov-2018 03:06:36 UTC] PHP Fatal error:  require(): Failed opening required 'footer.php' (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\classificados\detalhes.php on line 184
+[02-Nov-2018 03:08:06 UTC] PHP Warning:  require(footer.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\classificados\detalhes.php on line 184
+[02-Nov-2018 03:08:06 UTC] PHP Fatal error:  require(): Failed opening required 'footer.php' (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\classificados\detalhes.php on line 184
+[02-Nov-2018 03:08:07 UTC] PHP Warning:  require(footer.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\classificados\detalhes.php on line 184
+[02-Nov-2018 03:08:07 UTC] PHP Fatal error:  require(): Failed opening required 'footer.php' (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\classificados\detalhes.php on line 184
+[02-Nov-2018 03:08:09 UTC] PHP Warning:  require(footer.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\classificados\detalhes.php on line 184
+[02-Nov-2018 03:08:09 UTC] PHP Fatal error:  require(): Failed opening required 'footer.php' (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\classificados\detalhes.php on line 184
+[02-Nov-2018 03:16:30 UTC] PHP Warning:  require(footer.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\classificados\detalhes.php on line 188
+[02-Nov-2018 03:16:30 UTC] PHP Fatal error:  require(): Failed opening required 'footer.php' (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\classificados\detalhes.php on line 188
+[02-Nov-2018 03:16:42 UTC] PHP Warning:  require(footer.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\classificados\detalhes.php on line 189
+[02-Nov-2018 03:16:42 UTC] PHP Fatal error:  require(): Failed opening required 'footer.php' (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\classificados\detalhes.php on line 189
+[02-Nov-2018 03:18:43 UTC] PHP Warning:  require(footer.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\classificados\detalhes.php on line 198
+[02-Nov-2018 03:18:43 UTC] PHP Fatal error:  require(): Failed opening required 'footer.php' (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\classificados\detalhes.php on line 198
+[02-Nov-2018 16:50:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in C:\Users\leandro\Documents\sindcocoNew\classificados\paginaModal.php on line 23
+[02-Nov-2018 16:50:55 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in C:\Users\leandro\Documents\sindcocoNew\classificados\paginaModal.php on line 23
+[02-Nov-2018 16:51:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in C:\Users\leandro\Documents\sindcocoNew\classificados\paginaModal.php on line 23

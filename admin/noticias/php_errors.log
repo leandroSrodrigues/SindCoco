@@ -1,0 +1,187 @@
+[04-Oct-2018 23:33:57 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sindcoco.categoria' doesn't exist in C:\Users\leandro\Documents\sindcocoNew\admin\noticias\cadastrar.php:82
+Stack trace:
+#0 C:\Users\leandro\Documents\sindcocoNew\admin\noticias\cadastrar.php(82): PDO->query('SELECT * FROM c...')
+#1 {main}
+  thrown in C:\Users\leandro\Documents\sindcocoNew\admin\noticias\cadastrar.php on line 82
+[04-Oct-2018 23:34:08 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sindcoco.categoria' doesn't exist in C:\Users\leandro\Documents\sindcocoNew\admin\noticias\cadastrar.php:82
+Stack trace:
+#0 C:\Users\leandro\Documents\sindcocoNew\admin\noticias\cadastrar.php(82): PDO->query('SELECT * FROM c...')
+#1 {main}
+  thrown in C:\Users\leandro\Documents\sindcocoNew\admin\noticias\cadastrar.php on line 82
+[04-Oct-2018 23:34:32 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sindcoco.categoria' doesn't exist in C:\Users\leandro\Documents\sindcocoNew\admin\noticias\editar.php:91
+Stack trace:
+#0 C:\Users\leandro\Documents\sindcocoNew\admin\noticias\editar.php(91): PDO->query('SELECT * FROM c...')
+#1 {main}
+  thrown in C:\Users\leandro\Documents\sindcocoNew\admin\noticias\editar.php on line 91
+[05-Oct-2018 03:43:42 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sindcoco.categoria' doesn't exist in C:\Users\leandro\Documents\sindcocoNew\admin\noticias\cadastrar.php:82
+Stack trace:
+#0 C:\Users\leandro\Documents\sindcocoNew\admin\noticias\cadastrar.php(82): PDO->query('SELECT * FROM c...')
+#1 {main}
+  thrown in C:\Users\leandro\Documents\sindcocoNew\admin\noticias\cadastrar.php on line 82
+[05-Oct-2018 03:43:48 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sindcoco.categoria' doesn't exist in C:\Users\leandro\Documents\sindcocoNew\admin\noticias\cadastrar.php:82
+Stack trace:
+#0 C:\Users\leandro\Documents\sindcocoNew\admin\noticias\cadastrar.php(82): PDO->query('SELECT * FROM c...')
+#1 {main}
+  thrown in C:\Users\leandro\Documents\sindcocoNew\admin\noticias\cadastrar.php on line 82
+[05-Oct-2018 03:53:59 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sindcoco.categoria' doesn't exist in C:\Users\leandro\Documents\sindcocoNew\admin\noticias\cadastrar.php:82
+Stack trace:
+#0 C:\Users\leandro\Documents\sindcocoNew\admin\noticias\cadastrar.php(82): PDO->query('SELECT * FROM c...')
+#1 {main}
+  thrown in C:\Users\leandro\Documents\sindcocoNew\admin\noticias\cadastrar.php on line 82
+[05-Oct-2018 03:54:08 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sindcoco.categoria' doesn't exist in C:\Users\leandro\Documents\sindcocoNew\admin\noticias\cadastrar.php:82
+Stack trace:
+#0 C:\Users\leandro\Documents\sindcocoNew\admin\noticias\cadastrar.php(82): PDO->query('SELECT * FROM c...')
+#1 {main}
+  thrown in C:\Users\leandro\Documents\sindcocoNew\admin\noticias\cadastrar.php on line 82
+[05-Oct-2018 03:54:42 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sindcoco.categoria' doesn't exist in C:\Users\leandro\Documents\sindcocoNew\admin\noticias\cadastrar.php:82
+Stack trace:
+#0 C:\Users\leandro\Documents\sindcocoNew\admin\noticias\cadastrar.php(82): PDO->query('SELECT * FROM c...')
+#1 {main}
+  thrown in C:\Users\leandro\Documents\sindcocoNew\admin\noticias\cadastrar.php on line 82
+[05-Oct-2018 12:45:08 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sindcoco.categoria' doesn't exist in C:\Users\leandro\Documents\sindcocoNew\admin\noticias\cadastrar.php:82
+Stack trace:
+#0 C:\Users\leandro\Documents\sindcocoNew\admin\noticias\cadastrar.php(82): PDO->query('SELECT * FROM c...')
+#1 {main}
+  thrown in C:\Users\leandro\Documents\sindcocoNew\admin\noticias\cadastrar.php on line 82
+[05-Oct-2018 18:16:47 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sindcoco.categoria' doesn't exist in C:\Users\leandro\Documents\sindcocoNew\admin\noticias\cadastrar.php:82
+Stack trace:
+#0 C:\Users\leandro\Documents\sindcocoNew\admin\noticias\cadastrar.php(82): PDO->query('SELECT * FROM c...')
+#1 {main}
+  thrown in C:\Users\leandro\Documents\sindcocoNew\admin\noticias\cadastrar.php on line 82
+[05-Oct-2018 18:22:55 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sindcoco.categoria' doesn't exist in C:\Users\leandro\Documents\sindcocoNew\admin\noticias\editar.php:91
+Stack trace:
+#0 C:\Users\leandro\Documents\sindcocoNew\admin\noticias\editar.php(91): PDO->query('SELECT * FROM c...')
+#1 {main}
+  thrown in C:\Users\leandro\Documents\sindcocoNew\admin\noticias\editar.php on line 91
+[05-Oct-2018 18:26:23 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sindcoco.categoria' doesn't exist in C:\Users\leandro\Documents\sindcocoNew\admin\noticias\cadastrar.php:82
+Stack trace:
+#0 C:\Users\leandro\Documents\sindcocoNew\admin\noticias\cadastrar.php(82): PDO->query('SELECT * FROM c...')
+#1 {main}
+  thrown in C:\Users\leandro\Documents\sindcocoNew\admin\noticias\cadastrar.php on line 82
+[05-Oct-2018 21:07:25 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sindcoco.categoria' doesn't exist in C:\Users\leandro\Documents\sindcocoNew\admin\noticias\editar.php:91
+Stack trace:
+#0 C:\Users\leandro\Documents\sindcocoNew\admin\noticias\editar.php(91): PDO->query('SELECT * FROM c...')
+#1 {main}
+  thrown in C:\Users\leandro\Documents\sindcocoNew\admin\noticias\editar.php on line 91
+[05-Oct-2018 21:18:59 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sindcoco.categoria' doesn't exist in C:\Users\leandro\Documents\sindcocoNew\admin\noticias\editar.php:91
+Stack trace:
+#0 C:\Users\leandro\Documents\sindcocoNew\admin\noticias\editar.php(91): PDO->query('SELECT * FROM c...')
+#1 {main}
+  thrown in C:\Users\leandro\Documents\sindcocoNew\admin\noticias\editar.php on line 91
+[05-Oct-2018 21:40:05 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sindcoco.categoria' doesn't exist in C:\Users\leandro\Documents\sindcocoNew\admin\noticias\cadastrar.php:82
+Stack trace:
+#0 C:\Users\leandro\Documents\sindcocoNew\admin\noticias\cadastrar.php(82): PDO->query('SELECT * FROM c...')
+#1 {main}
+  thrown in C:\Users\leandro\Documents\sindcocoNew\admin\noticias\cadastrar.php on line 82
+[05-Oct-2018 21:44:40 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in C:\Users\leandro\Documents\sindcocoNew\admin\noticias\autorizar.php on line 84
+[05-Oct-2018 21:44:51 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in C:\Users\leandro\Documents\sindcocoNew\admin\noticias\autorizar.php on line 84
+[05-Oct-2018 21:49:54 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in C:\Users\leandro\Documents\sindcocoNew\admin\noticias\autorizar.php on line 84
+[05-Oct-2018 21:49:54 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in C:\Users\leandro\Documents\sindcocoNew\admin\noticias\autorizar.php on line 84
+[05-Oct-2018 21:49:55 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in C:\Users\leandro\Documents\sindcocoNew\admin\noticias\autorizar.php on line 84
+[05-Oct-2018 21:49:55 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in C:\Users\leandro\Documents\sindcocoNew\admin\noticias\autorizar.php on line 84
+[05-Oct-2018 21:49:55 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in C:\Users\leandro\Documents\sindcocoNew\admin\noticias\autorizar.php on line 84
+[05-Oct-2018 21:49:56 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in C:\Users\leandro\Documents\sindcocoNew\admin\noticias\autorizar.php on line 84
+[06-Oct-2018 01:53:06 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sindcoco.categoria' doesn't exist in C:\Users\leandro\Documents\sindcocoNew\admin\noticias\cadastrar.php:82
+Stack trace:
+#0 C:\Users\leandro\Documents\sindcocoNew\admin\noticias\cadastrar.php(82): PDO->query('SELECT * FROM c...')
+#1 {main}
+  thrown in C:\Users\leandro\Documents\sindcocoNew\admin\noticias\cadastrar.php on line 82
+[06-Oct-2018 02:36:01 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sindcoco.categoria' doesn't exist in C:\Users\leandro\Documents\sindcocoNew\admin\noticias\cadastrar.php:82
+Stack trace:
+#0 C:\Users\leandro\Documents\sindcocoNew\admin\noticias\cadastrar.php(82): PDO->query('SELECT * FROM c...')
+#1 {main}
+  thrown in C:\Users\leandro\Documents\sindcocoNew\admin\noticias\cadastrar.php on line 82
+[08-Oct-2018 14:33:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php:36) in C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php on line 133
+[08-Oct-2018 14:33:27 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php:36) in C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php on line 133
+[08-Oct-2018 14:34:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php:36) in C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php on line 133
+[08-Oct-2018 14:35:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php:36) in C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php on line 133
+[08-Oct-2018 15:14:27 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php:36) in C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php on line 133
+[08-Oct-2018 16:58:46 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\leandro\Documents\sindcocoNew\admin\noticias\editar.php on line 187
+[08-Oct-2018 16:58:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php:36) in C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php on line 133
+[08-Oct-2018 16:58:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php:36) in C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php on line 133
+[08-Oct-2018 16:59:02 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\leandro\Documents\sindcocoNew\admin\noticias\editar.php on line 187
+[08-Oct-2018 17:00:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php:36) in C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php on line 133
+[08-Oct-2018 17:09:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php:36) in C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php on line 133
+[08-Oct-2018 17:09:54 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php:36) in C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php on line 133
+[08-Oct-2018 17:10:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php:36) in C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php on line 133
+[08-Oct-2018 17:11:07 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php:36) in C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php on line 133
+[08-Oct-2018 17:12:43 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php:36) in C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php on line 133
+[08-Oct-2018 17:12:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php:36) in C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php on line 133
+[08-Oct-2018 17:13:03 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php:36) in C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php on line 133
+[08-Oct-2018 17:13:07 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php:36) in C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php on line 133
+[08-Oct-2018 17:18:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php:36) in C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php on line 133
+[08-Oct-2018 18:10:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php:36) in C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php on line 133
+[08-Oct-2018 20:21:14 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php:36) in C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php on line 133
+[08-Oct-2018 20:22:43 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php:36) in C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php on line 133
+[16-Oct-2018 21:21:34 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php:36) in C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php on line 133
+[16-Oct-2018 21:21:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php:36) in C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php on line 133
+[16-Oct-2018 21:21:56 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php:36) in C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php on line 133
+[16-Oct-2018 21:22:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php:36) in C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php on line 133
+[01-Nov-2018 01:58:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php:36) in C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php on line 133
+[01-Nov-2018 02:17:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php:36) in C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php on line 133
+[01-Nov-2018 02:45:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php:36) in C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php on line 133
+[01-Nov-2018 02:46:04 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php:36) in C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php on line 133
+[01-Nov-2018 02:46:07 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php:36) in C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php on line 133
+[05-Nov-2018 01:06:14 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php:36) in C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php on line 133
+[05-Nov-2018 01:07:41 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php:36) in C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php on line 133
+[05-Nov-2018 01:10:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php:36) in C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php on line 133
+[05-Nov-2018 01:11:46 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php:36) in C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php on line 133
+[05-Nov-2018 01:14:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php:36) in C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php on line 133
+[05-Nov-2018 01:14:37 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php:36) in C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php on line 133
+[05-Nov-2018 01:15:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php:36) in C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php on line 133
+[05-Nov-2018 01:15:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php:36) in C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php on line 133
+[05-Nov-2018 01:15:32 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php:36) in C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php on line 133
+[05-Nov-2018 01:20:48 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php:36) in C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php on line 133
+[05-Nov-2018 01:36:32 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php:36) in C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php on line 133
+[05-Nov-2018 01:39:41 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php:36) in C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php on line 133
+[05-Nov-2018 01:40:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php:36) in C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php on line 133
+[05-Nov-2018 01:57:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php:36) in C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php on line 133
+[05-Nov-2018 01:57:23 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php:36) in C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php on line 133
+[05-Nov-2018 01:57:28 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php:36) in C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php on line 133
+[05-Nov-2018 01:57:31 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php:36) in C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php on line 133
+[05-Nov-2018 02:08:41 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php:36) in C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php on line 133
+[05-Nov-2018 02:13:04 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php:36) in C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php on line 133
+[05-Nov-2018 02:23:46 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php:36) in C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php on line 133
+[05-Nov-2018 02:28:54 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php:36) in C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php on line 133
+[05-Nov-2018 02:29:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php:36) in C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php on line 133
+[05-Nov-2018 02:31:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php:36) in C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php on line 133
+[05-Nov-2018 02:39:07 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php:36) in C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php on line 133
+[05-Nov-2018 02:39:17 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php:36) in C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php on line 133
+[05-Nov-2018 02:39:44 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php:36) in C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php on line 133
+[05-Nov-2018 02:45:57 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php:36) in C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php on line 133
+[05-Nov-2018 02:46:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php:36) in C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php on line 133
+[05-Nov-2018 02:46:16 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php:36) in C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php on line 133
+[05-Nov-2018 02:46:34 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php:36) in C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php on line 133
+[05-Nov-2018 03:04:27 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php:36) in C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php on line 133
+[05-Nov-2018 03:04:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php:36) in C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php on line 133
+[05-Nov-2018 03:04:48 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php:36) in C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php on line 133
+[05-Nov-2018 03:06:29 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php:36) in C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php on line 133
+[05-Nov-2018 03:09:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php:36) in C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php on line 133
+[05-Nov-2018 03:11:32 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php:36) in C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php on line 133
+[05-Nov-2018 14:17:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php:36) in C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php on line 133
+[06-Nov-2018 16:58:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php:36) in C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php on line 133
+[06-Nov-2018 17:00:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php:36) in C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php on line 133
+[06-Nov-2018 17:01:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php:36) in C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php on line 133
+[06-Nov-2018 17:01:14 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php:36) in C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php on line 133
+[07-Nov-2018 12:51:41 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php:36) in C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php on line 133
+[07-Nov-2018 12:53:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php:36) in C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php on line 133
+[07-Nov-2018 12:59:16 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php:36) in C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php on line 133
+[07-Nov-2018 12:59:16 UTC] PHP Warning:  require(../util/conexao.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php on line 162
+[07-Nov-2018 12:59:16 UTC] PHP Fatal error:  require(): Failed opening required '../util/conexao.php' (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php on line 162
+[07-Nov-2018 12:59:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php:36) in C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php on line 133
+[07-Nov-2018 12:59:43 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php:36) in C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php on line 133
+[07-Nov-2018 12:59:54 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php:36) in C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php on line 133
+[07-Nov-2018 13:00:07 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php:36) in C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php on line 133
+[07-Nov-2018 13:00:48 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php:36) in C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php on line 133
+[07-Nov-2018 13:00:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php:36) in C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php on line 133
+[07-Nov-2018 13:39:29 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php:36) in C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php on line 133
+[07-Nov-2018 13:39:41 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php:36) in C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php on line 133
+[07-Nov-2018 13:42:13 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php:36) in C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php on line 133
+[07-Nov-2018 13:42:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php:36) in C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php on line 133
+[07-Nov-2018 13:42:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php:36) in C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php on line 133
+[07-Nov-2018 13:42:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php:36) in C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php on line 133
+[07-Nov-2018 13:43:59 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php:36) in C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php on line 133
+[07-Nov-2018 13:44:23 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php:36) in C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php on line 133
+[07-Nov-2018 13:44:32 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php:36) in C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php on line 133
+[07-Nov-2018 13:44:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php:36) in C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php on line 133
+[07-Nov-2018 13:44:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php:36) in C:\Users\leandro\Documents\sindcocoNew\admin\noticias\index.php on line 133

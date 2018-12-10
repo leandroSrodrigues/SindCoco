@@ -1,0 +1,25 @@
+[05-Oct-2018 03:45:57 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'autorizado' in 'where clause' in C:\Users\leandro\Documents\sindcocoNew\admin\informativos\index.php:94
+Stack trace:
+#0 C:\Users\leandro\Documents\sindcocoNew\admin\informativos\index.php(94): PDO->query('SELECT * FROM i...')
+#1 {main}
+  thrown in C:\Users\leandro\Documents\sindcocoNew\admin\informativos\index.php on line 94
+[05-Oct-2018 03:46:02 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'autorizado' in 'where clause' in C:\Users\leandro\Documents\sindcocoNew\admin\informativos\autorizar.php:94
+Stack trace:
+#0 C:\Users\leandro\Documents\sindcocoNew\admin\informativos\autorizar.php(94): PDO->query('SELECT * FROM i...')
+#1 {main}
+  thrown in C:\Users\leandro\Documents\sindcocoNew\admin\informativos\autorizar.php on line 94
+[06-Oct-2018 01:14:51 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'autorizado' in 'where clause' in C:\Users\leandro\Documents\sindcocoNew\admin\informativos\index.php:94
+Stack trace:
+#0 C:\Users\leandro\Documents\sindcocoNew\admin\informativos\index.php(94): PDO->query('SELECT * FROM i...')
+#1 {main}
+  thrown in C:\Users\leandro\Documents\sindcocoNew\admin\informativos\index.php on line 94
+[06-Oct-2018 01:46:09 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'autorizado' in 'where clause' in C:\Users\leandro\Documents\sindcocoNew\admin\informativos\index.php:94
+Stack trace:
+#0 C:\Users\leandro\Documents\sindcocoNew\admin\informativos\index.php(94): PDO->query('SELECT * FROM i...')
+#1 {main}
+  thrown in C:\Users\leandro\Documents\sindcocoNew\admin\informativos\index.php on line 94
+[06-Oct-2018 01:57:30 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'autorizado' in 'where clause' in C:\Users\leandro\Documents\sindcocoNew\admin\informativos\index.php:94
+Stack trace:
+#0 C:\Users\leandro\Documents\sindcocoNew\admin\informativos\index.php(94): PDO->query('SELECT * FROM i...')
+#1 {main}
+  thrown in C:\Users\leandro\Documents\sindcocoNew\admin\informativos\index.php on line 94

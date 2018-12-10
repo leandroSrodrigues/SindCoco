@@ -1,0 +1,50 @@
+[10-Oct-2018 16:01:40 UTC] PHP Warning:  include(nav.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\judiciais\index.php on line 29
+[10-Oct-2018 16:01:40 UTC] PHP Warning:  include(): Failed opening 'nav.php' for inclusion (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\judiciais\index.php on line 29
+[10-Oct-2018 16:01:40 UTC] PHP Warning:  require(footer.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\judiciais\index.php on line 60
+[10-Oct-2018 16:01:40 UTC] PHP Fatal error:  require(): Failed opening required 'footer.php' (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\judiciais\index.php on line 60
+[10-Oct-2018 16:03:55 UTC] PHP Warning:  include(nav.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\judiciais\index.php on line 41
+[10-Oct-2018 16:03:55 UTC] PHP Warning:  include(): Failed opening 'nav.php' for inclusion (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\judiciais\index.php on line 41
+[10-Oct-2018 16:03:55 UTC] PHP Warning:  require(rightSidebar.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\judiciais\index.php on line 138
+[10-Oct-2018 16:03:55 UTC] PHP Fatal error:  require(): Failed opening required 'rightSidebar.php' (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\judiciais\index.php on line 138
+[10-Oct-2018 16:04:33 UTC] PHP Warning:  include(nav.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\judiciais\index.php on line 41
+[10-Oct-2018 16:04:33 UTC] PHP Warning:  include(): Failed opening 'nav.php' for inclusion (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\judiciais\index.php on line 41
+[10-Oct-2018 16:04:33 UTC] PHP Warning:  require(rightSidebar.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\judiciais\index.php on line 138
+[10-Oct-2018 16:04:33 UTC] PHP Fatal error:  require(): Failed opening required 'rightSidebar.php' (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\judiciais\index.php on line 138
+[10-Oct-2018 16:04:35 UTC] PHP Warning:  include(nav.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\judiciais\index.php on line 41
+[10-Oct-2018 16:04:35 UTC] PHP Warning:  include(): Failed opening 'nav.php' for inclusion (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\judiciais\index.php on line 41
+[10-Oct-2018 16:04:35 UTC] PHP Warning:  require(rightSidebar.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\judiciais\index.php on line 138
+[10-Oct-2018 16:04:35 UTC] PHP Fatal error:  require(): Failed opening required 'rightSidebar.php' (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\judiciais\index.php on line 138
+[10-Oct-2018 16:04:36 UTC] PHP Warning:  include(nav.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\judiciais\index.php on line 41
+[10-Oct-2018 16:04:36 UTC] PHP Warning:  include(): Failed opening 'nav.php' for inclusion (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\judiciais\index.php on line 41
+[10-Oct-2018 16:04:36 UTC] PHP Warning:  require(rightSidebar.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\judiciais\index.php on line 138
+[10-Oct-2018 16:04:36 UTC] PHP Fatal error:  require(): Failed opening required 'rightSidebar.php' (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\judiciais\index.php on line 138
+[10-Oct-2018 16:05:51 UTC] PHP Warning:  include(nav.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\judiciais\index.php on line 41
+[10-Oct-2018 16:05:51 UTC] PHP Warning:  include(): Failed opening 'nav.php' for inclusion (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\judiciais\index.php on line 41
+[10-Oct-2018 16:05:51 UTC] PHP Warning:  require(rightSidebar.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\judiciais\index.php on line 138
+[10-Oct-2018 16:05:51 UTC] PHP Fatal error:  require(): Failed opening required 'rightSidebar.php' (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\judiciais\index.php on line 138
+[10-Oct-2018 16:06:31 UTC] PHP Warning:  include(nav.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\judiciais\index.php on line 41
+[10-Oct-2018 16:06:31 UTC] PHP Warning:  include(): Failed opening 'nav.php' for inclusion (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\judiciais\index.php on line 41
+[10-Oct-2018 16:06:31 UTC] PHP Warning:  require(rightSidebar.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\judiciais\index.php on line 138
+[10-Oct-2018 16:06:31 UTC] PHP Fatal error:  require(): Failed opening required 'rightSidebar.php' (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\judiciais\index.php on line 138
+[10-Oct-2018 16:16:36 UTC] PHP Warning:  require(rightSidebar.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\judiciais\index.php on line 138
+[10-Oct-2018 16:16:36 UTC] PHP Fatal error:  require(): Failed opening required 'rightSidebar.php' (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\judiciais\index.php on line 138
+[10-Oct-2018 16:49:33 UTC] PHP Warning:  require(rightSidebar.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\judiciais\index.php on line 138
+[10-Oct-2018 16:49:33 UTC] PHP Fatal error:  require(): Failed opening required 'rightSidebar.php' (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\judiciais\index.php on line 138
+[10-Oct-2018 17:09:21 UTC] PHP Warning:  require(rightSidebar.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\judiciais\index.php on line 138
+[10-Oct-2018 17:09:21 UTC] PHP Fatal error:  require(): Failed opening required 'rightSidebar.php' (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\judiciais\index.php on line 138
+[10-Oct-2018 17:09:59 UTC] PHP Warning:  require(../footer.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\judiciais\index.php on line 148
+[10-Oct-2018 17:09:59 UTC] PHP Fatal error:  require(): Failed opening required '../footer.php' (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\judiciais\index.php on line 148
+[10-Oct-2018 17:10:25 UTC] PHP Warning:  require(../footer.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\judiciais\index.php on line 148
+[10-Oct-2018 17:10:25 UTC] PHP Fatal error:  require(): Failed opening required '../footer.php' (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\judiciais\index.php on line 148
+[10-Oct-2018 17:10:42 UTC] PHP Warning:  require(../footer.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\judiciais\index.php on line 148
+[10-Oct-2018 17:10:42 UTC] PHP Fatal error:  require(): Failed opening required '../footer.php' (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\judiciais\index.php on line 148
+[10-Oct-2018 18:03:44 UTC] PHP Warning:  require(../footer.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\judiciais\index.php on line 100
+[10-Oct-2018 18:03:44 UTC] PHP Fatal error:  require(): Failed opening required '../footer.php' (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\judiciais\index.php on line 100
+[10-Oct-2018 18:04:02 UTC] PHP Warning:  require(../footer.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\judiciais\index.php on line 133
+[10-Oct-2018 18:04:02 UTC] PHP Fatal error:  require(): Failed opening required '../footer.php' (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\judiciais\index.php on line 133
+[10-Oct-2018 18:12:49 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in C:\Users\leandro\Documents\sindcocoNew\judiciais\index.php on line 127
+[10-Oct-2018 18:13:50 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in C:\Users\leandro\Documents\sindcocoNew\judiciais\index.php on line 127
+[20-Oct-2018 14:04:32 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\leandro\Documents\sindcocoNew\judiciais\index.php on line 137
+[20-Oct-2018 14:04:33 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\leandro\Documents\sindcocoNew\judiciais\index.php on line 137
+[20-Oct-2018 14:42:36 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\leandro\Documents\sindcocoNew\judiciais\rightSidebar.php on line 51
+[20-Oct-2018 14:42:42 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\leandro\Documents\sindcocoNew\judiciais\rightSidebar.php on line 66

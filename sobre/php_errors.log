@@ -1,0 +1,62 @@
+[27-Sep-2018 14:29:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\Users\leandro\Documents\sindcocoNew\sobre\rightSidebar.php:26
+Stack trace:
+#0 C:\Users\leandro\Documents\sindcocoNew\sobre\index.php(125): require()
+#1 {main}
+  thrown in C:\Users\leandro\Documents\sindcocoNew\sobre\rightSidebar.php on line 26
+[27-Sep-2018 14:30:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\Users\leandro\Documents\sindcocoNew\sobre\rightSidebar.php:26
+Stack trace:
+#0 C:\Users\leandro\Documents\sindcocoNew\sobre\index.php(125): require()
+#1 {main}
+  thrown in C:\Users\leandro\Documents\sindcocoNew\sobre\rightSidebar.php on line 26
+[27-Sep-2018 14:31:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\Users\leandro\Documents\sindcocoNew\sobre\rightSidebar.php:26
+Stack trace:
+#0 C:\Users\leandro\Documents\sindcocoNew\sobre\index.php(125): require()
+#1 {main}
+  thrown in C:\Users\leandro\Documents\sindcocoNew\sobre\rightSidebar.php on line 26
+[27-Sep-2018 14:52:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\Users\leandro\Documents\sindcocoNew\sobre\rightSidebar.php:26
+Stack trace:
+#0 C:\Users\leandro\Documents\sindcocoNew\sobre\index.php(125): require()
+#1 {main}
+  thrown in C:\Users\leandro\Documents\sindcocoNew\sobre\rightSidebar.php on line 26
+[22-Oct-2018 16:57:25 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '3' at line 1 in C:\Users\leandro\Documents\sindcocoNew\sobre\rightSidebar.php:29
+Stack trace:
+#0 C:\Users\leandro\Documents\sindcocoNew\sobre\rightSidebar.php(29): PDO->query('SELECT * FROM i...')
+#1 C:\Users\leandro\Documents\sindcocoNew\sobre\index.php(121): require('C:\\Users\\leandr...')
+#2 {main}
+  thrown in C:\Users\leandro\Documents\sindcocoNew\sobre\rightSidebar.php on line 29
+<<<<<<< HEAD
+[24-Oct-2018 04:37:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\Users\lucas\sindcoco\sobre\rightSidebar.php:33
+Stack trace:
+#0 C:\Users\lucas\sindcoco\sobre\index.php(121): require()
+#1 {main}
+  thrown in C:\Users\lucas\sindcoco\sobre\rightSidebar.php on line 33
+[24-Oct-2018 04:41:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\Users\lucas\sindcoco\sobre\rightSidebar.php:33
+Stack trace:
+#0 C:\Users\lucas\sindcoco\sobre\index.php(121): require()
+#1 {main}
+  thrown in C:\Users\lucas\sindcoco\sobre\rightSidebar.php on line 33
+=======
+[23-Oct-2018 00:39:16 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'autorizado' in 'where clause' in C:\Users\leandro\Documents\sindcocoNew\sobre\rightSidebar.php:33
+Stack trace:
+#0 C:\Users\leandro\Documents\sindcocoNew\sobre\rightSidebar.php(33): PDO->query('SELECT * FROM i...')
+#1 C:\Users\leandro\Documents\sindcocoNew\sobre\index.php(121): require('C:\\Users\\leandr...')
+#2 {main}
+  thrown in C:\Users\leandro\Documents\sindcocoNew\sobre\rightSidebar.php on line 33
+[23-Oct-2018 00:39:24 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'autorizado' in 'where clause' in C:\Users\leandro\Documents\sindcocoNew\sobre\rightSidebar.php:33
+Stack trace:
+#0 C:\Users\leandro\Documents\sindcocoNew\sobre\rightSidebar.php(33): PDO->query('SELECT * FROM i...')
+#1 C:\Users\leandro\Documents\sindcocoNew\sobre\certidao.php(88): require('C:\\Users\\leandr...')
+#2 {main}
+  thrown in C:\Users\leandro\Documents\sindcocoNew\sobre\rightSidebar.php on line 33
+[23-Oct-2018 00:39:27 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'autorizado' in 'where clause' in C:\Users\leandro\Documents\sindcocoNew\sobre\rightSidebar.php:33
+Stack trace:
+#0 C:\Users\leandro\Documents\sindcocoNew\sobre\rightSidebar.php(33): PDO->query('SELECT * FROM i...')
+#1 C:\Users\leandro\Documents\sindcocoNew\sobre\pragas.php(116): require('C:\\Users\\leandr...')
+#2 {main}
+  thrown in C:\Users\leandro\Documents\sindcocoNew\sobre\rightSidebar.php on line 33
+>>>>>>> 62df455960df507a9fccbabeeec6b53659d5d305
+[24-Oct-2018 21:38:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\Users\lucas\sindcoco\sobre\rightSidebar.php:33
+Stack trace:
+#0 C:\Users\lucas\sindcoco\sobre\index.php(121): require()
+#1 {main}
+  thrown in C:\Users\lucas\sindcoco\sobre\rightSidebar.php on line 33

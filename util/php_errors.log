@@ -1,0 +1,4 @@
+[24-Oct-2018 21:47:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\Users\lucas\sindcoco\util\rodar.php:13
+Stack trace:
+#0 {main}
+  thrown in C:\Users\lucas\sindcoco\util\rodar.php on line 13

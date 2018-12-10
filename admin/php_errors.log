@@ -1,0 +1,173 @@
+[29-Sep-2018 12:59:46 UTC] PHP Warning:  require(../util/conexao.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\admin\Dashio\index.PHP on line 30
+[29-Sep-2018 12:59:46 UTC] PHP Fatal error:  require(): Failed opening required '../util/conexao.php' (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\admin\Dashio\index.PHP on line 30
+[29-Sep-2018 13:00:59 UTC] PHP Warning:  require(../util/conexao.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\admin\Dashio\index.PHP on line 39
+[29-Sep-2018 13:00:59 UTC] PHP Fatal error:  require(): Failed opening required '../util/conexao.php' (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\admin\Dashio\index.PHP on line 39
+[29-Sep-2018 13:01:00 UTC] PHP Warning:  require(../util/conexao.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\admin\Dashio\index.PHP on line 39
+[29-Sep-2018 13:01:00 UTC] PHP Fatal error:  require(): Failed opening required '../util/conexao.php' (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\admin\Dashio\index.PHP on line 39
+[29-Sep-2018 13:01:07 UTC] PHP Warning:  require(../util/conexao.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\admin\Dashio\index.PHP on line 39
+[29-Sep-2018 13:01:07 UTC] PHP Fatal error:  require(): Failed opening required '../util/conexao.php' (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\admin\Dashio\index.PHP on line 39
+[29-Sep-2018 13:02:04 UTC] PHP Warning:  require(../util/admin/conexao.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\admin\Dashio\index.PHP on line 39
+[29-Sep-2018 13:02:04 UTC] PHP Fatal error:  require(): Failed opening required '../util/admin/conexao.php' (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\admin\Dashio\index.PHP on line 39
+[29-Sep-2018 13:02:05 UTC] PHP Warning:  require(../util/admin/conexao.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\admin\Dashio\index.PHP on line 39
+[29-Sep-2018 13:02:05 UTC] PHP Fatal error:  require(): Failed opening required '../util/admin/conexao.php' (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\admin\Dashio\index.PHP on line 39
+[29-Sep-2018 13:02:06 UTC] PHP Warning:  require(../util/admin/conexao.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\admin\Dashio\index.PHP on line 39
+[29-Sep-2018 13:02:06 UTC] PHP Fatal error:  require(): Failed opening required '../util/admin/conexao.php' (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\admin\Dashio\index.PHP on line 39
+[29-Sep-2018 13:02:06 UTC] PHP Warning:  require(../util/admin/conexao.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\admin\Dashio\index.PHP on line 39
+[29-Sep-2018 13:02:06 UTC] PHP Fatal error:  require(): Failed opening required '../util/admin/conexao.php' (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\admin\Dashio\index.PHP on line 39
+[29-Sep-2018 13:02:07 UTC] PHP Warning:  require(../util/admin/conexao.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\admin\Dashio\index.PHP on line 39
+[29-Sep-2018 13:02:07 UTC] PHP Fatal error:  require(): Failed opening required '../util/admin/conexao.php' (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\admin\Dashio\index.PHP on line 39
+[29-Sep-2018 13:02:07 UTC] PHP Warning:  require(../util/admin/conexao.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\admin\Dashio\index.PHP on line 39
+[29-Sep-2018 13:02:07 UTC] PHP Fatal error:  require(): Failed opening required '../util/admin/conexao.php' (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\admin\Dashio\index.PHP on line 39
+[29-Sep-2018 13:02:07 UTC] PHP Warning:  require(../util/admin/conexao.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\admin\Dashio\index.PHP on line 39
+[29-Sep-2018 13:02:07 UTC] PHP Fatal error:  require(): Failed opening required '../util/admin/conexao.php' (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\admin\Dashio\index.PHP on line 39
+[29-Sep-2018 13:08:58 UTC] PHP Warning:  require(../util/admin/conexao.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\admin\Dashio\index.PHP on line 41
+[29-Sep-2018 13:08:58 UTC] PHP Fatal error:  require(): Failed opening required '../util/admin/conexao.php' (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\admin\Dashio\index.PHP on line 41
+[29-Sep-2018 13:08:59 UTC] PHP Warning:  require(../util/admin/conexao.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\admin\Dashio\index.PHP on line 41
+[29-Sep-2018 13:08:59 UTC] PHP Fatal error:  require(): Failed opening required '../util/admin/conexao.php' (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\admin\Dashio\index.PHP on line 41
+[29-Sep-2018 13:08:59 UTC] PHP Warning:  require(../util/admin/conexao.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\admin\Dashio\index.PHP on line 41
+[29-Sep-2018 13:08:59 UTC] PHP Fatal error:  require(): Failed opening required '../util/admin/conexao.php' (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\admin\Dashio\index.PHP on line 41
+[29-Sep-2018 13:08:59 UTC] PHP Warning:  require(../util/admin/conexao.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\admin\Dashio\index.PHP on line 41
+[29-Sep-2018 13:08:59 UTC] PHP Fatal error:  require(): Failed opening required '../util/admin/conexao.php' (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\admin\Dashio\index.PHP on line 41
+[29-Sep-2018 13:09:00 UTC] PHP Warning:  require(../util/admin/conexao.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\admin\Dashio\index.PHP on line 41
+[29-Sep-2018 13:09:00 UTC] PHP Fatal error:  require(): Failed opening required '../util/admin/conexao.php' (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\admin\Dashio\index.PHP on line 41
+[29-Sep-2018 13:09:00 UTC] PHP Warning:  require(../util/admin/conexao.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\admin\Dashio\index.PHP on line 41
+[29-Sep-2018 13:09:00 UTC] PHP Fatal error:  require(): Failed opening required '../util/admin/conexao.php' (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\admin\Dashio\index.PHP on line 41
+[29-Sep-2018 13:09:14 UTC] PHP Warning:  require(../util/admin/conexao.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\admin\Dashio\index.PHP on line 41
+[29-Sep-2018 13:09:14 UTC] PHP Fatal error:  require(): Failed opening required '../util/admin/conexao.php' (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\admin\Dashio\index.PHP on line 41
+[29-Sep-2018 13:10:04 UTC] PHP Warning:  require(../util/admin/conexao.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\admin\Dashio\index.PHP on line 41
+[29-Sep-2018 13:10:04 UTC] PHP Fatal error:  require(): Failed opening required '../util/admin/conexao.php' (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\admin\Dashio\index.PHP on line 41
+[29-Sep-2018 13:10:09 UTC] PHP Warning:  require(../util/admin/conexao.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\admin\Dashio\index.PHP on line 41
+[29-Sep-2018 13:10:09 UTC] PHP Fatal error:  require(): Failed opening required '../util/admin/conexao.php' (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\admin\Dashio\index.PHP on line 41
+[29-Sep-2018 13:10:38 UTC] PHP Warning:  require(../util/admin/conexao.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\admin\Dashio\index.PHP on line 41
+[29-Sep-2018 13:10:38 UTC] PHP Fatal error:  require(): Failed opening required '../util/admin/conexao.php' (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\admin\Dashio\index.PHP on line 41
+[29-Sep-2018 13:10:38 UTC] PHP Warning:  require(../util/admin/conexao.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\admin\Dashio\index.PHP on line 41
+[29-Sep-2018 13:10:38 UTC] PHP Fatal error:  require(): Failed opening required '../util/admin/conexao.php' (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\admin\Dashio\index.PHP on line 41
+[29-Sep-2018 13:10:39 UTC] PHP Warning:  require(../util/admin/conexao.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\admin\Dashio\index.PHP on line 41
+[29-Sep-2018 13:10:39 UTC] PHP Fatal error:  require(): Failed opening required '../util/admin/conexao.php' (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\admin\Dashio\index.PHP on line 41
+[29-Sep-2018 13:10:39 UTC] PHP Warning:  require(../util/admin/conexao.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\admin\Dashio\index.PHP on line 41
+[29-Sep-2018 13:10:39 UTC] PHP Fatal error:  require(): Failed opening required '../util/admin/conexao.php' (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\admin\Dashio\index.PHP on line 41
+[29-Sep-2018 13:10:39 UTC] PHP Warning:  require(../util/admin/conexao.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\admin\Dashio\index.PHP on line 41
+[29-Sep-2018 13:10:39 UTC] PHP Fatal error:  require(): Failed opening required '../util/admin/conexao.php' (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\admin\Dashio\index.PHP on line 41
+[29-Sep-2018 13:10:39 UTC] PHP Warning:  require(../util/admin/conexao.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\admin\Dashio\index.PHP on line 41
+[29-Sep-2018 13:10:39 UTC] PHP Fatal error:  require(): Failed opening required '../util/admin/conexao.php' (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\admin\Dashio\index.PHP on line 41
+[29-Sep-2018 13:10:39 UTC] PHP Warning:  require(../util/admin/conexao.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\admin\Dashio\index.PHP on line 41
+[29-Sep-2018 13:10:39 UTC] PHP Fatal error:  require(): Failed opening required '../util/admin/conexao.php' (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\admin\Dashio\index.PHP on line 41
+[29-Sep-2018 13:10:39 UTC] PHP Warning:  require(../util/admin/conexao.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\admin\Dashio\index.PHP on line 41
+[29-Sep-2018 13:10:39 UTC] PHP Fatal error:  require(): Failed opening required '../util/admin/conexao.php' (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\admin\Dashio\index.PHP on line 41
+[29-Sep-2018 13:10:39 UTC] PHP Warning:  require(../util/admin/conexao.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\admin\Dashio\index.PHP on line 41
+[29-Sep-2018 13:10:39 UTC] PHP Fatal error:  require(): Failed opening required '../util/admin/conexao.php' (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\admin\Dashio\index.PHP on line 41
+[29-Sep-2018 13:10:39 UTC] PHP Warning:  require(../util/admin/conexao.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\admin\Dashio\index.PHP on line 41
+[29-Sep-2018 13:10:39 UTC] PHP Fatal error:  require(): Failed opening required '../util/admin/conexao.php' (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\admin\Dashio\index.PHP on line 41
+[29-Sep-2018 13:10:39 UTC] PHP Warning:  require(../util/admin/conexao.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\admin\Dashio\index.PHP on line 41
+[29-Sep-2018 13:10:39 UTC] PHP Fatal error:  require(): Failed opening required '../util/admin/conexao.php' (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\admin\Dashio\index.PHP on line 41
+[29-Sep-2018 13:10:39 UTC] PHP Warning:  require(../util/admin/conexao.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\admin\Dashio\index.PHP on line 41
+[29-Sep-2018 13:10:39 UTC] PHP Fatal error:  require(): Failed opening required '../util/admin/conexao.php' (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\admin\Dashio\index.PHP on line 41
+[29-Sep-2018 13:10:39 UTC] PHP Warning:  require(../util/admin/conexao.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\admin\Dashio\index.PHP on line 41
+[29-Sep-2018 13:10:39 UTC] PHP Fatal error:  require(): Failed opening required '../util/admin/conexao.php' (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\admin\Dashio\index.PHP on line 41
+[29-Sep-2018 13:10:39 UTC] PHP Warning:  require(../util/admin/conexao.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\admin\Dashio\index.PHP on line 41
+[29-Sep-2018 13:10:39 UTC] PHP Fatal error:  require(): Failed opening required '../util/admin/conexao.php' (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\admin\Dashio\index.PHP on line 41
+[29-Sep-2018 13:10:39 UTC] PHP Warning:  require(../util/admin/conexao.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\admin\Dashio\index.PHP on line 41
+[29-Sep-2018 13:10:39 UTC] PHP Fatal error:  require(): Failed opening required '../util/admin/conexao.php' (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\admin\Dashio\index.PHP on line 41
+[29-Sep-2018 13:10:39 UTC] PHP Warning:  require(../util/admin/conexao.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\admin\Dashio\index.PHP on line 41
+[29-Sep-2018 13:10:39 UTC] PHP Fatal error:  require(): Failed opening required '../util/admin/conexao.php' (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\admin\Dashio\index.PHP on line 41
+[29-Sep-2018 13:10:39 UTC] PHP Warning:  require(../util/admin/conexao.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\admin\Dashio\index.PHP on line 41
+[29-Sep-2018 13:10:39 UTC] PHP Fatal error:  require(): Failed opening required '../util/admin/conexao.php' (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\admin\Dashio\index.PHP on line 41
+[29-Sep-2018 13:10:39 UTC] PHP Warning:  require(../util/admin/conexao.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\admin\Dashio\index.PHP on line 41
+[29-Sep-2018 13:10:39 UTC] PHP Fatal error:  require(): Failed opening required '../util/admin/conexao.php' (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\admin\Dashio\index.PHP on line 41
+[29-Sep-2018 13:10:39 UTC] PHP Warning:  require(../util/admin/conexao.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\admin\Dashio\index.PHP on line 41
+[29-Sep-2018 13:10:39 UTC] PHP Fatal error:  require(): Failed opening required '../util/admin/conexao.php' (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\admin\Dashio\index.PHP on line 41
+[29-Sep-2018 13:10:39 UTC] PHP Warning:  require(../util/admin/conexao.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\admin\Dashio\index.PHP on line 41
+[29-Sep-2018 13:10:39 UTC] PHP Fatal error:  require(): Failed opening required '../util/admin/conexao.php' (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\admin\Dashio\index.PHP on line 41
+[29-Sep-2018 13:11:29 UTC] PHP Warning:  require(../util/admin/conexao.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\admin\Dashio\index.php on line 41
+[29-Sep-2018 13:11:29 UTC] PHP Fatal error:  require(): Failed opening required '../util/admin/conexao.php' (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\admin\Dashio\index.php on line 41
+[29-Sep-2018 13:11:29 UTC] PHP Warning:  require(../util/admin/conexao.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\admin\Dashio\index.php on line 41
+[29-Sep-2018 13:11:29 UTC] PHP Fatal error:  require(): Failed opening required '../util/admin/conexao.php' (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\admin\Dashio\index.php on line 41
+[29-Sep-2018 13:11:29 UTC] PHP Warning:  require(../util/admin/conexao.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\admin\Dashio\index.php on line 41
+[29-Sep-2018 13:11:29 UTC] PHP Fatal error:  require(): Failed opening required '../util/admin/conexao.php' (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\admin\Dashio\index.php on line 41
+[29-Sep-2018 13:11:29 UTC] PHP Warning:  require(../util/admin/conexao.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\admin\Dashio\index.php on line 41
+[29-Sep-2018 13:11:29 UTC] PHP Fatal error:  require(): Failed opening required '../util/admin/conexao.php' (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\admin\Dashio\index.php on line 41
+[29-Sep-2018 13:11:29 UTC] PHP Warning:  require(../util/admin/conexao.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\admin\Dashio\index.php on line 41
+[29-Sep-2018 13:11:29 UTC] PHP Fatal error:  require(): Failed opening required '../util/admin/conexao.php' (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\admin\Dashio\index.php on line 41
+[29-Sep-2018 13:11:29 UTC] PHP Warning:  require(../util/admin/conexao.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\admin\Dashio\index.php on line 41
+[29-Sep-2018 13:11:29 UTC] PHP Fatal error:  require(): Failed opening required '../util/admin/conexao.php' (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\admin\Dashio\index.php on line 41
+[29-Sep-2018 13:11:29 UTC] PHP Warning:  require(../util/admin/conexao.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\admin\Dashio\index.php on line 41
+[29-Sep-2018 13:11:29 UTC] PHP Fatal error:  require(): Failed opening required '../util/admin/conexao.php' (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\admin\Dashio\index.php on line 41
+[29-Sep-2018 13:11:29 UTC] PHP Warning:  require(../util/admin/conexao.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\admin\Dashio\index.php on line 41
+[29-Sep-2018 13:11:29 UTC] PHP Fatal error:  require(): Failed opening required '../util/admin/conexao.php' (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\admin\Dashio\index.php on line 41
+[29-Sep-2018 13:11:29 UTC] PHP Warning:  require(../util/admin/conexao.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\admin\Dashio\index.php on line 41
+[29-Sep-2018 13:11:29 UTC] PHP Fatal error:  require(): Failed opening required '../util/admin/conexao.php' (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\admin\Dashio\index.php on line 41
+[29-Sep-2018 13:11:29 UTC] PHP Warning:  require(../util/admin/conexao.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\admin\Dashio\index.php on line 41
+[29-Sep-2018 13:11:29 UTC] PHP Fatal error:  require(): Failed opening required '../util/admin/conexao.php' (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\admin\Dashio\index.php on line 41
+[29-Sep-2018 13:11:29 UTC] PHP Warning:  require(../util/admin/conexao.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\admin\Dashio\index.php on line 41
+[29-Sep-2018 13:11:30 UTC] PHP Fatal error:  require(): Failed opening required '../util/admin/conexao.php' (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\admin\Dashio\index.php on line 41
+[29-Sep-2018 13:11:30 UTC] PHP Warning:  require(../util/admin/conexao.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\admin\Dashio\index.php on line 41
+[29-Sep-2018 13:11:30 UTC] PHP Fatal error:  require(): Failed opening required '../util/admin/conexao.php' (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\admin\Dashio\index.php on line 41
+[29-Sep-2018 13:11:30 UTC] PHP Warning:  require(../util/admin/conexao.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\admin\Dashio\index.php on line 41
+[29-Sep-2018 13:11:30 UTC] PHP Fatal error:  require(): Failed opening required '../util/admin/conexao.php' (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\admin\Dashio\index.php on line 41
+[29-Sep-2018 13:11:30 UTC] PHP Warning:  require(../util/admin/conexao.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\admin\Dashio\index.php on line 41
+[29-Sep-2018 13:11:30 UTC] PHP Fatal error:  require(): Failed opening required '../util/admin/conexao.php' (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\admin\Dashio\index.php on line 41
+[29-Sep-2018 13:11:30 UTC] PHP Warning:  require(../util/admin/conexao.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\admin\Dashio\index.php on line 41
+[29-Sep-2018 13:11:30 UTC] PHP Fatal error:  require(): Failed opening required '../util/admin/conexao.php' (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\admin\Dashio\index.php on line 41
+[29-Sep-2018 13:11:30 UTC] PHP Warning:  require(../util/admin/conexao.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\admin\Dashio\index.php on line 41
+[29-Sep-2018 13:11:30 UTC] PHP Fatal error:  require(): Failed opening required '../util/admin/conexao.php' (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\admin\Dashio\index.php on line 41
+[29-Sep-2018 13:11:30 UTC] PHP Warning:  require(../util/admin/conexao.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\admin\Dashio\index.php on line 41
+[29-Sep-2018 13:11:30 UTC] PHP Fatal error:  require(): Failed opening required '../util/admin/conexao.php' (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\admin\Dashio\index.php on line 41
+[29-Sep-2018 13:11:30 UTC] PHP Warning:  require(../util/admin/conexao.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\admin\Dashio\index.php on line 41
+[29-Sep-2018 13:11:30 UTC] PHP Fatal error:  require(): Failed opening required '../util/admin/conexao.php' (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\admin\Dashio\index.php on line 41
+[29-Sep-2018 13:11:30 UTC] PHP Warning:  require(../util/admin/conexao.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\admin\Dashio\index.php on line 41
+[29-Sep-2018 13:11:30 UTC] PHP Fatal error:  require(): Failed opening required '../util/admin/conexao.php' (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\admin\Dashio\index.php on line 41
+[29-Sep-2018 13:11:30 UTC] PHP Warning:  require(../util/admin/conexao.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\admin\Dashio\index.php on line 41
+[29-Sep-2018 13:11:30 UTC] PHP Fatal error:  require(): Failed opening required '../util/admin/conexao.php' (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\admin\Dashio\index.php on line 41
+[29-Sep-2018 13:11:30 UTC] PHP Warning:  require(../util/admin/conexao.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\admin\Dashio\index.php on line 41
+[29-Sep-2018 13:11:30 UTC] PHP Fatal error:  require(): Failed opening required '../util/admin/conexao.php' (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\admin\Dashio\index.php on line 41
+[29-Sep-2018 13:11:36 UTC] PHP Warning:  require(../util/admin/conexao.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\admin\Dashio\index.php on line 41
+[29-Sep-2018 13:11:36 UTC] PHP Fatal error:  require(): Failed opening required '../util/admin/conexao.php' (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\admin\Dashio\index.php on line 41
+[02-Oct-2018 23:42:22 UTC] PHP Warning:  require(footers.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\admin\responsive_table.php on line 125
+[02-Oct-2018 23:42:22 UTC] PHP Fatal error:  require(): Failed opening required 'footers.php' (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\admin\responsive_table.php on line 125
+[02-Oct-2018 23:43:25 UTC] PHP Warning:  require(footers.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\admin\basic_table.php on line 135
+[02-Oct-2018 23:43:25 UTC] PHP Fatal error:  require(): Failed opening required 'footers.php' (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\admin\basic_table.php on line 135
+[02-Oct-2018 23:43:43 UTC] PHP Warning:  require(footers.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\admin\basic_table.php on line 209
+[02-Oct-2018 23:43:43 UTC] PHP Fatal error:  require(): Failed opening required 'footers.php' (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\admin\basic_table.php on line 209
+[02-Oct-2018 23:43:45 UTC] PHP Warning:  require(footers.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\admin\basic_table.php on line 209
+[02-Oct-2018 23:43:45 UTC] PHP Fatal error:  require(): Failed opening required 'footers.php' (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\admin\basic_table.php on line 209
+[04-Oct-2018 18:35:52 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\leandro\Documents\sindcocoNew\admin\basic_table.php on line 177
+[04-Oct-2018 18:36:16 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\leandro\Documents\sindcocoNew\admin\basic_table.php on line 180
+[04-Oct-2018 18:36:17 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\leandro\Documents\sindcocoNew\admin\basic_table.php on line 180
+[04-Oct-2018 18:37:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\Users\leandro\Documents\sindcocoNew\admin\basic_table.php:102
+Stack trace:
+#0 {main}
+  thrown in C:\Users\leandro\Documents\sindcocoNew\admin\basic_table.php on line 102
+[04-Oct-2018 18:38:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\Users\leandro\Documents\sindcocoNew\admin\basic_table.php:105
+Stack trace:
+#0 {main}
+  thrown in C:\Users\leandro\Documents\sindcocoNew\admin\basic_table.php on line 105
+[04-Oct-2018 18:38:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\Users\leandro\Documents\sindcocoNew\admin\basic_table.php:105
+Stack trace:
+#0 {main}
+  thrown in C:\Users\leandro\Documents\sindcocoNew\admin\basic_table.php on line 105
+[04-Oct-2018 18:41:10 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\leandro\Documents\sindcocoNew\admin\basic_table.php on line 180
+[04-Oct-2018 18:41:11 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\leandro\Documents\sindcocoNew\admin\basic_table.php on line 180
+[04-Oct-2018 18:41:32 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\leandro\Documents\sindcocoNew\admin\basic_table.php on line 190
+[04-Oct-2018 18:41:39 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\leandro\Documents\sindcocoNew\admin\basic_table.php on line 190
+[04-Oct-2018 18:41:40 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\leandro\Documents\sindcocoNew\admin\basic_table.php on line 190
+[04-Oct-2018 18:43:07 UTC] PHP Warning:  require(../imports.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\admin\basic_table.php on line 27
+[04-Oct-2018 18:43:07 UTC] PHP Fatal error:  require(): Failed opening required '../imports.php' (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\admin\basic_table.php on line 27
+[04-Oct-2018 18:43:09 UTC] PHP Warning:  require(../imports.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\admin\basic_table.php on line 27
+[04-Oct-2018 18:43:09 UTC] PHP Fatal error:  require(): Failed opening required '../imports.php' (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\admin\basic_table.php on line 27
+[04-Oct-2018 19:05:16 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\leandro\Documents\sindcocoNew\admin\basic_table.php on line 167
+[04-Oct-2018 19:05:38 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\leandro\Documents\sindcocoNew\admin\basic_table.php on line 169
+[04-Oct-2018 19:05:40 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\leandro\Documents\sindcocoNew\admin\basic_table.php on line 169
+[04-Oct-2018 19:05:41 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\leandro\Documents\sindcocoNew\admin\basic_table.php on line 169
+[04-Oct-2018 19:06:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\Users\leandro\Documents\sindcocoNew\admin\basic_table.php:102
+Stack trace:
+#0 {main}
+  thrown in C:\Users\leandro\Documents\sindcocoNew\admin\basic_table.php on line 102
+[04-Oct-2018 19:08:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\Users\leandro\Documents\sindcocoNew\admin\basic_table.php:101
+Stack trace:
+#0 {main}
+  thrown in C:\Users\leandro\Documents\sindcocoNew\admin\basic_table.php on line 101
+[04-Oct-2018 19:09:11 UTC] PHP Parse error:  syntax error, unexpected 'require' (T_REQUIRE) in C:\Users\leandro\Documents\sindcocoNew\admin\basic_table.php on line 28
+[24-Oct-2018 21:45:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\Users\lucas\sindcoco\admin\verificaLogin.php:13
+Stack trace:
+#0 {main}
+  thrown in C:\Users\lucas\sindcoco\admin\verificaLogin.php on line 13

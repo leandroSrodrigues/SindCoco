@@ -1,0 +1,35 @@
+[26-Oct-2018 14:41:51 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in C:\Users\leandro\Documents\sindcocoNew\eventos\index.php on line 54
+[27-Oct-2018 15:02:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\Users\leandro\Documents\sindcocoNew\eventos\index.php:258
+Stack trace:
+#0 {main}
+  thrown in C:\Users\leandro\Documents\sindcocoNew\eventos\index.php on line 258
+[27-Oct-2018 15:03:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\Users\leandro\Documents\sindcocoNew\eventos\index.php:258
+Stack trace:
+#0 {main}
+  thrown in C:\Users\leandro\Documents\sindcocoNew\eventos\index.php on line 258
+[27-Oct-2018 15:04:37 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\leandro\Documents\sindcocoNew\eventos\index.php on line 361
+[27-Oct-2018 15:05:13 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\leandro\Documents\sindcocoNew\eventos\index.php on line 359
+[27-Oct-2018 15:05:15 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\leandro\Documents\sindcocoNew\eventos\index.php on line 359
+[27-Oct-2018 15:05:17 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\leandro\Documents\sindcocoNew\eventos\index.php on line 359
+[27-Oct-2018 15:05:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\Users\leandro\Documents\sindcocoNew\eventos\index.php:258
+Stack trace:
+#0 {main}
+  thrown in C:\Users\leandro\Documents\sindcocoNew\eventos\index.php on line 258
+[27-Oct-2018 15:23:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\Users\leandro\Documents\sindcocoNew\eventos\index.php:258
+Stack trace:
+#0 {main}
+  thrown in C:\Users\leandro\Documents\sindcocoNew\eventos\index.php on line 258
+[27-Oct-2018 15:23:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\Users\leandro\Documents\sindcocoNew\eventos\index.php:258
+Stack trace:
+#0 {main}
+  thrown in C:\Users\leandro\Documents\sindcocoNew\eventos\index.php on line 258
+[27-Oct-2018 15:24:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\Users\leandro\Documents\sindcocoNew\eventos\index.php:258
+Stack trace:
+#0 {main}
+  thrown in C:\Users\leandro\Documents\sindcocoNew\eventos\index.php on line 258
+[27-Oct-2018 15:24:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\Users\leandro\Documents\sindcocoNew\eventos\index.php:258
+Stack trace:
+#0 {main}
+  thrown in C:\Users\leandro\Documents\sindcocoNew\eventos\index.php on line 258
+[27-Oct-2018 18:16:33 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in C:\Users\leandro\Documents\sindcocoNew\eventos\teste.php on line 229
+[27-Oct-2018 18:16:34 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in C:\Users\leandro\Documents\sindcocoNew\eventos\teste.php on line 229

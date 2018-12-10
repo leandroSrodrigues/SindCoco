@@ -1,0 +1,8 @@
+[05-Oct-2018 13:23:12 UTC] PHP Warning:  require(../importAdm.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\admin\usuarios\cadastrar.php on line 50
+[05-Oct-2018 13:23:12 UTC] PHP Fatal error:  require(): Failed opening required '../importAdm.php' (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\admin\usuarios\cadastrar.php on line 50
+[05-Oct-2018 13:23:13 UTC] PHP Warning:  require(../importAdm.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\admin\usuarios\cadastrar.php on line 50
+[05-Oct-2018 13:23:13 UTC] PHP Fatal error:  require(): Failed opening required '../importAdm.php' (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\admin\usuarios\cadastrar.php on line 50
+[05-Oct-2018 13:26:17 UTC] PHP Warning:  require(../importAdm.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\admin\usuarios\cadastrar.php on line 52
+[05-Oct-2018 13:26:17 UTC] PHP Fatal error:  require(): Failed opening required '../importAdm.php' (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\admin\usuarios\cadastrar.php on line 52
+[05-Oct-2018 13:26:18 UTC] PHP Warning:  require(../importAdm.php): failed to open stream: No such file or directory in C:\Users\leandro\Documents\sindcocoNew\admin\usuarios\cadastrar.php on line 52
+[05-Oct-2018 13:26:18 UTC] PHP Fatal error:  require(): Failed opening required '../importAdm.php' (include_path='.;C:\php\pear') in C:\Users\leandro\Documents\sindcocoNew\admin\usuarios\cadastrar.php on line 52
